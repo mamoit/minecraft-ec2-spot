@@ -1,0 +1,5 @@
+# local config must never be commited
+config.local
+
+# virtualenv for stable packages
+venv
